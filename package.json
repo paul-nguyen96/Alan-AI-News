@@ -2,7 +2,11 @@
   "name": "alan-ai-news",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://paul-nguyen96.github.io/cloud-coin/Alan-AI-News/",
+=======
+  "homepage": "https://paul-nguyen96.github.io/Alan-AI-News/",
+>>>>>>> parent of eee2b68 (homepage edit)
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.8.28",
     "@material-ui/core": "^4.12.3",
